@@ -1,0 +1,5 @@
+/Users/poideeira/Projects/lab_4/lab_4/obj/Debug/net7.0/lab_4.csproj.AssemblyReference.cache
+/Users/poideeira/Projects/lab_4/lab_4/obj/Debug/net7.0/lab_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poideeira/Projects/lab_4/lab_4/obj/Debug/net7.0/lab_4.AssemblyInfoInputs.cache
+/Users/poideeira/Projects/lab_4/lab_4/obj/Debug/net7.0/lab_4.AssemblyInfo.cs
+/Users/poideeira/Projects/lab_4/lab_4/obj/Debug/net7.0/lab_4.csproj.CoreCompileInputs.cache
